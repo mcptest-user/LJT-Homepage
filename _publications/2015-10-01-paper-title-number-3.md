@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Composing Parameter-Efficient Modules with Arithmetic Operations"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+permalink: /publication/composing-parameter-efficient-modules
+excerpt: "Published at NeurIPS 2023. Co-author."
+date: 2023-12-01
+venue: "NeurIPS 2023"
+paperurl: ""
+citation: "Jinghan Zhang, Shiqi Chen, Junteng Liu, and Junxian He. 2023. Composing Parameter-Efficient Modules with Arithmetic Operations. In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS)."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper explores methods for composing parameter-efficient modules using arithmetic operations, enabling more efficient fine-tuning of large language models.
+
+**Authors**: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
