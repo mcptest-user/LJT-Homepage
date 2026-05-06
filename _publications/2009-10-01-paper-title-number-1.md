@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/perception-bottleneck-vlms
+excerpt: "Published in 2025. First author."
+date: 2025-02-01
+venue: "Arxiv"
+paperurl: ""
+citation: "Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. 2025. On the Perception Bottleneck of VLMs for Chart Understanding. Arxiv."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper investigates the perception bottleneck in Vision-Language Models (VLMs) for chart understanding tasks, identifying key challenges and proposing solutions.
+
+**Authors**: Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+
+**Links**: 
+- [GitHub Repository: Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
