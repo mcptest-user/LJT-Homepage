@@ -31,11 +31,9 @@ My research focuses on natural language processing and machine learning. My rese
 
 ## Publications
 
-<ul>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-</ul>
 
 For a full list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) page.
 
