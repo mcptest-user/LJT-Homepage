@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in the [HKUST NLP Group](https://nlp.cse.ust.hk/), advised by [Professor Junxian He](https://web.cse.ust.hk/~junxian/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am a first-year Ph.D. candidate at HKUST NLP Group, advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
 
